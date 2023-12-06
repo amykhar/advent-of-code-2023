@@ -1,0 +1,45 @@
+{
+    "description": "Advent of Code 2023 puzzles",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amy Anuszewski",
+            "email": "amykhar@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "doctrine/doctrine-bundle": "^2.11",
+        "doctrine/orm": "^2.17",
+        "symfony/console": "^7.0",
+        "symfony/dotenv": "^7.0",
+        "symfony/runtime": "^7.0",
+        "symfony/yaml": "^7.0",
+        "symfony/flex": "^2.4"
+    },
+    "config": {
+        "allow-plugins": {
+            "symfony/runtime": true,
+            "symfony/flex": true
+        }
+    },
+    "scripts": {
+        "auto-scripts": {
+            "cache:clear": "symfony-cmd",
+            "assets:install %PUBLIC_DIR%": "symfony-cmd"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^7.0"
+    }
+}

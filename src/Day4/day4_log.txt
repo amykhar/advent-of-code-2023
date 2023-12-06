@@ -1,0 +1,2554 @@
+Filename: day4_input.txt
+Highest card number: 214
+Checking card: 1
+How many copies: 1
+Win count: 10
+Adding 1 copies to card number 2
+Card  2 now has 2
+Adding 1 copies to card number 3
+Card  3 now has 2
+Adding 1 copies to card number 4
+Card  4 now has 2
+Adding 1 copies to card number 5
+Card  5 now has 2
+Adding 1 copies to card number 6
+Card  6 now has 2
+Adding 1 copies to card number 7
+Card  7 now has 2
+Adding 1 copies to card number 8
+Card  8 now has 2
+Adding 1 copies to card number 9
+Card  9 now has 2
+Adding 1 copies to card number 10
+Card  10 now has 2
+Adding 1 copies to card number 11
+Card  11 now has 2
+Checking card: 2
+How many copies: 2
+Win count: 5
+Adding 2 copies to card number 3
+Card  3 now has 4
+Adding 2 copies to card number 4
+Card  4 now has 4
+Adding 2 copies to card number 5
+Card  5 now has 4
+Adding 2 copies to card number 6
+Card  6 now has 4
+Adding 2 copies to card number 7
+Card  7 now has 4
+Checking card: 3
+How many copies: 4
+Win count: 6
+Adding 4 copies to card number 4
+Card  4 now has 8
+Adding 4 copies to card number 5
+Card  5 now has 8
+Adding 4 copies to card number 6
+Card  6 now has 8
+Adding 4 copies to card number 7
+Card  7 now has 8
+Adding 4 copies to card number 8
+Card  8 now has 6
+Adding 4 copies to card number 9
+Card  9 now has 6
+Checking card: 4
+How many copies: 8
+Win count: 5
+Adding 8 copies to card number 5
+Card  5 now has 16
+Adding 8 copies to card number 6
+Card  6 now has 16
+Adding 8 copies to card number 7
+Card  7 now has 16
+Adding 8 copies to card number 8
+Card  8 now has 14
+Adding 8 copies to card number 9
+Card  9 now has 14
+Checking card: 5
+How many copies: 16
+Win count: 8
+Adding 16 copies to card number 6
+Card  6 now has 32
+Adding 16 copies to card number 7
+Card  7 now has 32
+Adding 16 copies to card number 8
+Card  8 now has 30
+Adding 16 copies to card number 9
+Card  9 now has 30
+Adding 16 copies to card number 10
+Card  10 now has 18
+Adding 16 copies to card number 11
+Card  11 now has 18
+Adding 16 copies to card number 12
+Card  12 now has 17
+Adding 16 copies to card number 13
+Card  13 now has 17
+Checking card: 6
+How many copies: 32
+Win count: 1
+Adding 32 copies to card number 7
+Card  7 now has 64
+Checking card: 7
+How many copies: 64
+Win count: 4
+Adding 64 copies to card number 8
+Card  8 now has 94
+Adding 64 copies to card number 9
+Card  9 now has 94
+Adding 64 copies to card number 10
+Card  10 now has 82
+Adding 64 copies to card number 11
+Card  11 now has 82
+Checking card: 8
+How many copies: 94
+Win count: 8
+Adding 94 copies to card number 9
+Card  9 now has 188
+Adding 94 copies to card number 10
+Card  10 now has 176
+Adding 94 copies to card number 11
+Card  11 now has 176
+Adding 94 copies to card number 12
+Card  12 now has 111
+Adding 94 copies to card number 13
+Card  13 now has 111
+Adding 94 copies to card number 14
+Card  14 now has 95
+Adding 94 copies to card number 15
+Card  15 now has 95
+Adding 94 copies to card number 16
+Card  16 now has 95
+Checking card: 9
+How many copies: 188
+Win count: 0
+Checking card: 10
+How many copies: 176
+Win count: 7
+Adding 176 copies to card number 11
+Card  11 now has 352
+Adding 176 copies to card number 12
+Card  12 now has 287
+Adding 176 copies to card number 13
+Card  13 now has 287
+Adding 176 copies to card number 14
+Card  14 now has 271
+Adding 176 copies to card number 15
+Card  15 now has 271
+Adding 176 copies to card number 16
+Card  16 now has 271
+Adding 176 copies to card number 17
+Card  17 now has 177
+Checking card: 11
+How many copies: 352
+Win count: 2
+Adding 352 copies to card number 12
+Card  12 now has 639
+Adding 352 copies to card number 13
+Card  13 now has 639
+Checking card: 12
+How many copies: 639
+Win count: 7
+Adding 639 copies to card number 13
+Card  13 now has 1278
+Adding 639 copies to card number 14
+Card  14 now has 910
+Adding 639 copies to card number 15
+Card  15 now has 910
+Adding 639 copies to card number 16
+Card  16 now has 910
+Adding 639 copies to card number 17
+Card  17 now has 816
+Adding 639 copies to card number 18
+Card  18 now has 640
+Adding 639 copies to card number 19
+Card  19 now has 640
+Checking card: 13
+How many copies: 1278
+Win count: 3
+Adding 1278 copies to card number 14
+Card  14 now has 2188
+Adding 1278 copies to card number 15
+Card  15 now has 2188
+Adding 1278 copies to card number 16
+Card  16 now has 2188
+Checking card: 14
+How many copies: 2188
+Win count: 4
+Adding 2188 copies to card number 15
+Card  15 now has 4376
+Adding 2188 copies to card number 16
+Card  16 now has 4376
+Adding 2188 copies to card number 17
+Card  17 now has 3004
+Adding 2188 copies to card number 18
+Card  18 now has 2828
+Checking card: 15
+How many copies: 4376
+Win count: 3
+Adding 4376 copies to card number 16
+Card  16 now has 8752
+Adding 4376 copies to card number 17
+Card  17 now has 7380
+Adding 4376 copies to card number 18
+Card  18 now has 7204
+Checking card: 16
+How many copies: 8752
+Win count: 2
+Adding 8752 copies to card number 17
+Card  17 now has 16132
+Adding 8752 copies to card number 18
+Card  18 now has 15956
+Checking card: 17
+How many copies: 16132
+Win count: 2
+Adding 16132 copies to card number 18
+Card  18 now has 32088
+Adding 16132 copies to card number 19
+Card  19 now has 16772
+Checking card: 18
+How many copies: 32088
+Win count: 2
+Adding 32088 copies to card number 19
+Card  19 now has 48860
+Adding 32088 copies to card number 20
+Card  20 now has 32089
+Checking card: 19
+How many copies: 48860
+Win count: 1
+Adding 48860 copies to card number 20
+Card  20 now has 80949
+Checking card: 20
+How many copies: 80949
+Win count: 0
+Checking card: 21
+How many copies: 1
+Win count: 1
+Adding 1 copies to card number 22
+Card  22 now has 2
+Checking card: 22
+How many copies: 2
+Win count: 5
+Adding 2 copies to card number 23
+Card  23 now has 3
+Adding 2 copies to card number 24
+Card  24 now has 3
+Adding 2 copies to card number 25
+Card  25 now has 3
+Adding 2 copies to card number 26
+Card  26 now has 3
+Adding 2 copies to card number 27
+Card  27 now has 3
+Checking card: 23
+How many copies: 3
+Win count: 9
+Adding 3 copies to card number 24
+Card  24 now has 6
+Adding 3 copies to card number 25
+Card  25 now has 6
+Adding 3 copies to card number 26
+Card  26 now has 6
+Adding 3 copies to card number 27
+Card  27 now has 6
+Adding 3 copies to card number 28
+Card  28 now has 4
+Adding 3 copies to card number 29
+Card  29 now has 4
+Adding 3 copies to card number 30
+Card  30 now has 4
+Adding 3 copies to card number 31
+Card  31 now has 4
+Adding 3 copies to card number 32
+Card  32 now has 4
+Checking card: 24
+How many copies: 6
+Win count: 9
+Adding 6 copies to card number 25
+Card  25 now has 12
+Adding 6 copies to card number 26
+Card  26 now has 12
+Adding 6 copies to card number 27
+Card  27 now has 12
+Adding 6 copies to card number 28
+Card  28 now has 10
+Adding 6 copies to card number 29
+Card  29 now has 10
+Adding 6 copies to card number 30
+Card  30 now has 10
+Adding 6 copies to card number 31
+Card  31 now has 10
+Adding 6 copies to card number 32
+Card  32 now has 10
+Adding 6 copies to card number 33
+Card  33 now has 7
+Checking card: 25
+How many copies: 12
+Win count: 6
+Adding 12 copies to card number 26
+Card  26 now has 24
+Adding 12 copies to card number 27
+Card  27 now has 24
+Adding 12 copies to card number 28
+Card  28 now has 22
+Adding 12 copies to card number 29
+Card  29 now has 22
+Adding 12 copies to card number 30
+Card  30 now has 22
+Adding 12 copies to card number 31
+Card  31 now has 22
+Checking card: 26
+How many copies: 24
+Win count: 2
+Adding 24 copies to card number 27
+Card  27 now has 48
+Adding 24 copies to card number 28
+Card  28 now has 46
+Checking card: 27
+How many copies: 48
+Win count: 9
+Adding 48 copies to card number 28
+Card  28 now has 94
+Adding 48 copies to card number 29
+Card  29 now has 70
+Adding 48 copies to card number 30
+Card  30 now has 70
+Adding 48 copies to card number 31
+Card  31 now has 70
+Adding 48 copies to card number 32
+Card  32 now has 58
+Adding 48 copies to card number 33
+Card  33 now has 55
+Adding 48 copies to card number 34
+Card  34 now has 49
+Adding 48 copies to card number 35
+Card  35 now has 49
+Adding 48 copies to card number 36
+Card  36 now has 49
+Checking card: 28
+How many copies: 94
+Win count: 3
+Adding 94 copies to card number 29
+Card  29 now has 164
+Adding 94 copies to card number 30
+Card  30 now has 164
+Adding 94 copies to card number 31
+Card  31 now has 164
+Checking card: 29
+How many copies: 164
+Win count: 4
+Adding 164 copies to card number 30
+Card  30 now has 328
+Adding 164 copies to card number 31
+Card  31 now has 328
+Adding 164 copies to card number 32
+Card  32 now has 222
+Adding 164 copies to card number 33
+Card  33 now has 219
+Checking card: 30
+How many copies: 328
+Win count: 0
+Checking card: 31
+How many copies: 328
+Win count: 0
+Checking card: 32
+How many copies: 222
+Win count: 4
+Adding 222 copies to card number 33
+Card  33 now has 441
+Adding 222 copies to card number 34
+Card  34 now has 271
+Adding 222 copies to card number 35
+Card  35 now has 271
+Adding 222 copies to card number 36
+Card  36 now has 271
+Checking card: 33
+How many copies: 441
+Win count: 0
+Checking card: 34
+How many copies: 271
+Win count: 1
+Adding 271 copies to card number 35
+Card  35 now has 542
+Checking card: 35
+How many copies: 542
+Win count: 0
+Checking card: 36
+How many copies: 271
+Win count: 0
+Checking card: 37
+How many copies: 1
+Win count: 10
+Adding 1 copies to card number 38
+Card  38 now has 2
+Adding 1 copies to card number 39
+Card  39 now has 2
+Adding 1 copies to card number 40
+Card  40 now has 2
+Adding 1 copies to card number 41
+Card  41 now has 2
+Adding 1 copies to card number 42
+Card  42 now has 2
+Adding 1 copies to card number 43
+Card  43 now has 2
+Adding 1 copies to card number 44
+Card  44 now has 2
+Adding 1 copies to card number 45
+Card  45 now has 2
+Adding 1 copies to card number 46
+Card  46 now has 2
+Adding 1 copies to card number 47
+Card  47 now has 2
+Checking card: 38
+How many copies: 2
+Win count: 7
+Adding 2 copies to card number 39
+Card  39 now has 4
+Adding 2 copies to card number 40
+Card  40 now has 4
+Adding 2 copies to card number 41
+Card  41 now has 4
+Adding 2 copies to card number 42
+Card  42 now has 4
+Adding 2 copies to card number 43
+Card  43 now has 4
+Adding 2 copies to card number 44
+Card  44 now has 4
+Adding 2 copies to card number 45
+Card  45 now has 4
+Checking card: 39
+How many copies: 4
+Win count: 10
+Adding 4 copies to card number 40
+Card  40 now has 8
+Adding 4 copies to card number 41
+Card  41 now has 8
+Adding 4 copies to card number 42
+Card  42 now has 8
+Adding 4 copies to card number 43
+Card  43 now has 8
+Adding 4 copies to card number 44
+Card  44 now has 8
+Adding 4 copies to card number 45
+Card  45 now has 8
+Adding 4 copies to card number 46
+Card  46 now has 6
+Adding 4 copies to card number 47
+Card  47 now has 6
+Adding 4 copies to card number 48
+Card  48 now has 5
+Adding 4 copies to card number 49
+Card  49 now has 5
+Checking card: 40
+How many copies: 8
+Win count: 10
+Adding 8 copies to card number 41
+Card  41 now has 16
+Adding 8 copies to card number 42
+Card  42 now has 16
+Adding 8 copies to card number 43
+Card  43 now has 16
+Adding 8 copies to card number 44
+Card  44 now has 16
+Adding 8 copies to card number 45
+Card  45 now has 16
+Adding 8 copies to card number 46
+Card  46 now has 14
+Adding 8 copies to card number 47
+Card  47 now has 14
+Adding 8 copies to card number 48
+Card  48 now has 13
+Adding 8 copies to card number 49
+Card  49 now has 13
+Adding 8 copies to card number 50
+Card  50 now has 9
+Checking card: 41
+How many copies: 16
+Win count: 5
+Adding 16 copies to card number 42
+Card  42 now has 32
+Adding 16 copies to card number 43
+Card  43 now has 32
+Adding 16 copies to card number 44
+Card  44 now has 32
+Adding 16 copies to card number 45
+Card  45 now has 32
+Adding 16 copies to card number 46
+Card  46 now has 30
+Checking card: 42
+How many copies: 32
+Win count: 4
+Adding 32 copies to card number 43
+Card  43 now has 64
+Adding 32 copies to card number 44
+Card  44 now has 64
+Adding 32 copies to card number 45
+Card  45 now has 64
+Adding 32 copies to card number 46
+Card  46 now has 62
+Checking card: 43
+How many copies: 64
+Win count: 10
+Adding 64 copies to card number 44
+Card  44 now has 128
+Adding 64 copies to card number 45
+Card  45 now has 128
+Adding 64 copies to card number 46
+Card  46 now has 126
+Adding 64 copies to card number 47
+Card  47 now has 78
+Adding 64 copies to card number 48
+Card  48 now has 77
+Adding 64 copies to card number 49
+Card  49 now has 77
+Adding 64 copies to card number 50
+Card  50 now has 73
+Adding 64 copies to card number 51
+Card  51 now has 65
+Adding 64 copies to card number 52
+Card  52 now has 65
+Adding 64 copies to card number 53
+Card  53 now has 65
+Checking card: 44
+How many copies: 128
+Win count: 7
+Adding 128 copies to card number 45
+Card  45 now has 256
+Adding 128 copies to card number 46
+Card  46 now has 254
+Adding 128 copies to card number 47
+Card  47 now has 206
+Adding 128 copies to card number 48
+Card  48 now has 205
+Adding 128 copies to card number 49
+Card  49 now has 205
+Adding 128 copies to card number 50
+Card  50 now has 201
+Adding 128 copies to card number 51
+Card  51 now has 193
+Checking card: 45
+How many copies: 256
+Win count: 10
+Adding 256 copies to card number 46
+Card  46 now has 510
+Adding 256 copies to card number 47
+Card  47 now has 462
+Adding 256 copies to card number 48
+Card  48 now has 461
+Adding 256 copies to card number 49
+Card  49 now has 461
+Adding 256 copies to card number 50
+Card  50 now has 457
+Adding 256 copies to card number 51
+Card  51 now has 449
+Adding 256 copies to card number 52
+Card  52 now has 321
+Adding 256 copies to card number 53
+Card  53 now has 321
+Adding 256 copies to card number 54
+Card  54 now has 257
+Adding 256 copies to card number 55
+Card  55 now has 257
+Checking card: 46
+How many copies: 510
+Win count: 3
+Adding 510 copies to card number 47
+Card  47 now has 972
+Adding 510 copies to card number 48
+Card  48 now has 971
+Adding 510 copies to card number 49
+Card  49 now has 971
+Checking card: 47
+How many copies: 972
+Win count: 10
+Adding 972 copies to card number 48
+Card  48 now has 1943
+Adding 972 copies to card number 49
+Card  49 now has 1943
+Adding 972 copies to card number 50
+Card  50 now has 1429
+Adding 972 copies to card number 51
+Card  51 now has 1421
+Adding 972 copies to card number 52
+Card  52 now has 1293
+Adding 972 copies to card number 53
+Card  53 now has 1293
+Adding 972 copies to card number 54
+Card  54 now has 1229
+Adding 972 copies to card number 55
+Card  55 now has 1229
+Adding 972 copies to card number 56
+Card  56 now has 973
+Adding 972 copies to card number 57
+Card  57 now has 973
+Checking card: 48
+How many copies: 1943
+Win count: 3
+Adding 1943 copies to card number 49
+Card  49 now has 3886
+Adding 1943 copies to card number 50
+Card  50 now has 3372
+Adding 1943 copies to card number 51
+Card  51 now has 3364
+Checking card: 49
+How many copies: 3886
+Win count: 10
+Adding 3886 copies to card number 50
+Card  50 now has 7258
+Adding 3886 copies to card number 51
+Card  51 now has 7250
+Adding 3886 copies to card number 52
+Card  52 now has 5179
+Adding 3886 copies to card number 53
+Card  53 now has 5179
+Adding 3886 copies to card number 54
+Card  54 now has 5115
+Adding 3886 copies to card number 55
+Card  55 now has 5115
+Adding 3886 copies to card number 56
+Card  56 now has 4859
+Adding 3886 copies to card number 57
+Card  57 now has 4859
+Adding 3886 copies to card number 58
+Card  58 now has 3887
+Adding 3886 copies to card number 59
+Card  59 now has 3887
+Checking card: 50
+How many copies: 7258
+Win count: 0
+Checking card: 51
+How many copies: 7250
+Win count: 10
+Adding 7250 copies to card number 52
+Card  52 now has 12429
+Adding 7250 copies to card number 53
+Card  53 now has 12429
+Adding 7250 copies to card number 54
+Card  54 now has 12365
+Adding 7250 copies to card number 55
+Card  55 now has 12365
+Adding 7250 copies to card number 56
+Card  56 now has 12109
+Adding 7250 copies to card number 57
+Card  57 now has 12109
+Adding 7250 copies to card number 58
+Card  58 now has 11137
+Adding 7250 copies to card number 59
+Card  59 now has 11137
+Adding 7250 copies to card number 60
+Card  60 now has 7251
+Adding 7250 copies to card number 61
+Card  61 now has 7251
+Checking card: 52
+How many copies: 12429
+Win count: 4
+Adding 12429 copies to card number 53
+Card  53 now has 24858
+Adding 12429 copies to card number 54
+Card  54 now has 24794
+Adding 12429 copies to card number 55
+Card  55 now has 24794
+Adding 12429 copies to card number 56
+Card  56 now has 24538
+Checking card: 53
+How many copies: 24858
+Win count: 7
+Adding 24858 copies to card number 54
+Card  54 now has 49652
+Adding 24858 copies to card number 55
+Card  55 now has 49652
+Adding 24858 copies to card number 56
+Card  56 now has 49396
+Adding 24858 copies to card number 57
+Card  57 now has 36967
+Adding 24858 copies to card number 58
+Card  58 now has 35995
+Adding 24858 copies to card number 59
+Card  59 now has 35995
+Adding 24858 copies to card number 60
+Card  60 now has 32109
+Checking card: 54
+How many copies: 49652
+Win count: 1
+Adding 49652 copies to card number 55
+Card  55 now has 99304
+Checking card: 55
+How many copies: 99304
+Win count: 5
+Adding 99304 copies to card number 56
+Card  56 now has 148700
+Adding 99304 copies to card number 57
+Card  57 now has 136271
+Adding 99304 copies to card number 58
+Card  58 now has 135299
+Adding 99304 copies to card number 59
+Card  59 now has 135299
+Adding 99304 copies to card number 60
+Card  60 now has 131413
+Checking card: 56
+How many copies: 148700
+Win count: 1
+Adding 148700 copies to card number 57
+Card  57 now has 284971
+Checking card: 57
+How many copies: 284971
+Win count: 2
+Adding 284971 copies to card number 58
+Card  58 now has 420270
+Adding 284971 copies to card number 59
+Card  59 now has 420270
+Checking card: 58
+How many copies: 420270
+Win count: 2
+Adding 420270 copies to card number 59
+Card  59 now has 840540
+Adding 420270 copies to card number 60
+Card  60 now has 551683
+Checking card: 59
+How many copies: 840540
+Win count: 0
+Checking card: 60
+How many copies: 551683
+Win count: 0
+Checking card: 61
+How many copies: 7251
+Win count: 0
+Checking card: 62
+How many copies: 1
+Win count: 10
+Adding 1 copies to card number 63
+Card  63 now has 2
+Adding 1 copies to card number 64
+Card  64 now has 2
+Adding 1 copies to card number 65
+Card  65 now has 2
+Adding 1 copies to card number 66
+Card  66 now has 2
+Adding 1 copies to card number 67
+Card  67 now has 2
+Adding 1 copies to card number 68
+Card  68 now has 2
+Adding 1 copies to card number 69
+Card  69 now has 2
+Adding 1 copies to card number 70
+Card  70 now has 2
+Adding 1 copies to card number 71
+Card  71 now has 2
+Adding 1 copies to card number 72
+Card  72 now has 2
+Checking card: 63
+How many copies: 2
+Win count: 10
+Adding 2 copies to card number 64
+Card  64 now has 4
+Adding 2 copies to card number 65
+Card  65 now has 4
+Adding 2 copies to card number 66
+Card  66 now has 4
+Adding 2 copies to card number 67
+Card  67 now has 4
+Adding 2 copies to card number 68
+Card  68 now has 4
+Adding 2 copies to card number 69
+Card  69 now has 4
+Adding 2 copies to card number 70
+Card  70 now has 4
+Adding 2 copies to card number 71
+Card  71 now has 4
+Adding 2 copies to card number 72
+Card  72 now has 4
+Adding 2 copies to card number 73
+Card  73 now has 3
+Checking card: 64
+How many copies: 4
+Win count: 6
+Adding 4 copies to card number 65
+Card  65 now has 8
+Adding 4 copies to card number 66
+Card  66 now has 8
+Adding 4 copies to card number 67
+Card  67 now has 8
+Adding 4 copies to card number 68
+Card  68 now has 8
+Adding 4 copies to card number 69
+Card  69 now has 8
+Adding 4 copies to card number 70
+Card  70 now has 8
+Checking card: 65
+How many copies: 8
+Win count: 10
+Adding 8 copies to card number 66
+Card  66 now has 16
+Adding 8 copies to card number 67
+Card  67 now has 16
+Adding 8 copies to card number 68
+Card  68 now has 16
+Adding 8 copies to card number 69
+Card  69 now has 16
+Adding 8 copies to card number 70
+Card  70 now has 16
+Adding 8 copies to card number 71
+Card  71 now has 12
+Adding 8 copies to card number 72
+Card  72 now has 12
+Adding 8 copies to card number 73
+Card  73 now has 11
+Adding 8 copies to card number 74
+Card  74 now has 9
+Adding 8 copies to card number 75
+Card  75 now has 9
+Checking card: 66
+How many copies: 16
+Win count: 10
+Adding 16 copies to card number 67
+Card  67 now has 32
+Adding 16 copies to card number 68
+Card  68 now has 32
+Adding 16 copies to card number 69
+Card  69 now has 32
+Adding 16 copies to card number 70
+Card  70 now has 32
+Adding 16 copies to card number 71
+Card  71 now has 28
+Adding 16 copies to card number 72
+Card  72 now has 28
+Adding 16 copies to card number 73
+Card  73 now has 27
+Adding 16 copies to card number 74
+Card  74 now has 25
+Adding 16 copies to card number 75
+Card  75 now has 25
+Adding 16 copies to card number 76
+Card  76 now has 17
+Checking card: 67
+How many copies: 32
+Win count: 0
+Checking card: 68
+How many copies: 32
+Win count: 10
+Adding 32 copies to card number 69
+Card  69 now has 64
+Adding 32 copies to card number 70
+Card  70 now has 64
+Adding 32 copies to card number 71
+Card  71 now has 60
+Adding 32 copies to card number 72
+Card  72 now has 60
+Adding 32 copies to card number 73
+Card  73 now has 59
+Adding 32 copies to card number 74
+Card  74 now has 57
+Adding 32 copies to card number 75
+Card  75 now has 57
+Adding 32 copies to card number 76
+Card  76 now has 49
+Adding 32 copies to card number 77
+Card  77 now has 33
+Adding 32 copies to card number 78
+Card  78 now has 33
+Checking card: 69
+How many copies: 64
+Win count: 1
+Adding 64 copies to card number 70
+Card  70 now has 128
+Checking card: 70
+How many copies: 128
+Win count: 10
+Adding 128 copies to card number 71
+Card  71 now has 188
+Adding 128 copies to card number 72
+Card  72 now has 188
+Adding 128 copies to card number 73
+Card  73 now has 187
+Adding 128 copies to card number 74
+Card  74 now has 185
+Adding 128 copies to card number 75
+Card  75 now has 185
+Adding 128 copies to card number 76
+Card  76 now has 177
+Adding 128 copies to card number 77
+Card  77 now has 161
+Adding 128 copies to card number 78
+Card  78 now has 161
+Adding 128 copies to card number 79
+Card  79 now has 129
+Adding 128 copies to card number 80
+Card  80 now has 129
+Checking card: 71
+How many copies: 188
+Win count: 0
+Checking card: 72
+How many copies: 188
+Win count: 7
+Adding 188 copies to card number 73
+Card  73 now has 375
+Adding 188 copies to card number 74
+Card  74 now has 373
+Adding 188 copies to card number 75
+Card  75 now has 373
+Adding 188 copies to card number 76
+Card  76 now has 365
+Adding 188 copies to card number 77
+Card  77 now has 349
+Adding 188 copies to card number 78
+Card  78 now has 349
+Adding 188 copies to card number 79
+Card  79 now has 317
+Checking card: 73
+How many copies: 375
+Win count: 10
+Adding 375 copies to card number 74
+Card  74 now has 748
+Adding 375 copies to card number 75
+Card  75 now has 748
+Adding 375 copies to card number 76
+Card  76 now has 740
+Adding 375 copies to card number 77
+Card  77 now has 724
+Adding 375 copies to card number 78
+Card  78 now has 724
+Adding 375 copies to card number 79
+Card  79 now has 692
+Adding 375 copies to card number 80
+Card  80 now has 504
+Adding 375 copies to card number 81
+Card  81 now has 376
+Adding 375 copies to card number 82
+Card  82 now has 376
+Adding 375 copies to card number 83
+Card  83 now has 376
+Checking card: 74
+How many copies: 748
+Win count: 6
+Adding 748 copies to card number 75
+Card  75 now has 1496
+Adding 748 copies to card number 76
+Card  76 now has 1488
+Adding 748 copies to card number 77
+Card  77 now has 1472
+Adding 748 copies to card number 78
+Card  78 now has 1472
+Adding 748 copies to card number 79
+Card  79 now has 1440
+Adding 748 copies to card number 80
+Card  80 now has 1252
+Checking card: 75
+How many copies: 1496
+Win count: 5
+Adding 1496 copies to card number 76
+Card  76 now has 2984
+Adding 1496 copies to card number 77
+Card  77 now has 2968
+Adding 1496 copies to card number 78
+Card  78 now has 2968
+Adding 1496 copies to card number 79
+Card  79 now has 2936
+Adding 1496 copies to card number 80
+Card  80 now has 2748
+Checking card: 76
+How many copies: 2984
+Win count: 1
+Adding 2984 copies to card number 77
+Card  77 now has 5952
+Checking card: 77
+How many copies: 5952
+Win count: 0
+Checking card: 78
+How many copies: 2968
+Win count: 5
+Adding 2968 copies to card number 79
+Card  79 now has 5904
+Adding 2968 copies to card number 80
+Card  80 now has 5716
+Adding 2968 copies to card number 81
+Card  81 now has 3344
+Adding 2968 copies to card number 82
+Card  82 now has 3344
+Adding 2968 copies to card number 83
+Card  83 now has 3344
+Checking card: 79
+How many copies: 5904
+Win count: 6
+Adding 5904 copies to card number 80
+Card  80 now has 11620
+Adding 5904 copies to card number 81
+Card  81 now has 9248
+Adding 5904 copies to card number 82
+Card  82 now has 9248
+Adding 5904 copies to card number 83
+Card  83 now has 9248
+Adding 5904 copies to card number 84
+Card  84 now has 5905
+Adding 5904 copies to card number 85
+Card  85 now has 5905
+Checking card: 80
+How many copies: 11620
+Win count: 2
+Adding 11620 copies to card number 81
+Card  81 now has 20868
+Adding 11620 copies to card number 82
+Card  82 now has 20868
+Checking card: 81
+How many copies: 20868
+Win count: 2
+Adding 20868 copies to card number 82
+Card  82 now has 41736
+Adding 20868 copies to card number 83
+Card  83 now has 30116
+Checking card: 82
+How many copies: 41736
+Win count: 4
+Adding 41736 copies to card number 83
+Card  83 now has 71852
+Adding 41736 copies to card number 84
+Card  84 now has 47641
+Adding 41736 copies to card number 85
+Card  85 now has 47641
+Adding 41736 copies to card number 86
+Card  86 now has 41737
+Checking card: 83
+How many copies: 71852
+Win count: 2
+Adding 71852 copies to card number 84
+Card  84 now has 119493
+Adding 71852 copies to card number 85
+Card  85 now has 119493
+Checking card: 84
+How many copies: 119493
+Win count: 2
+Adding 119493 copies to card number 85
+Card  85 now has 238986
+Adding 119493 copies to card number 86
+Card  86 now has 161230
+Checking card: 85
+How many copies: 238986
+Win count: 1
+Adding 238986 copies to card number 86
+Card  86 now has 400216
+Checking card: 86
+How many copies: 400216
+Win count: 0
+Checking card: 87
+How many copies: 1
+Win count: 10
+Adding 1 copies to card number 88
+Card  88 now has 2
+Adding 1 copies to card number 89
+Card  89 now has 2
+Adding 1 copies to card number 90
+Card  90 now has 2
+Adding 1 copies to card number 91
+Card  91 now has 2
+Adding 1 copies to card number 92
+Card  92 now has 2
+Adding 1 copies to card number 93
+Card  93 now has 2
+Adding 1 copies to card number 94
+Card  94 now has 2
+Adding 1 copies to card number 95
+Card  95 now has 2
+Adding 1 copies to card number 96
+Card  96 now has 2
+Adding 1 copies to card number 97
+Card  97 now has 2
+Checking card: 88
+How many copies: 2
+Win count: 2
+Adding 2 copies to card number 89
+Card  89 now has 4
+Adding 2 copies to card number 90
+Card  90 now has 4
+Checking card: 89
+How many copies: 4
+Win count: 10
+Adding 4 copies to card number 90
+Card  90 now has 8
+Adding 4 copies to card number 91
+Card  91 now has 6
+Adding 4 copies to card number 92
+Card  92 now has 6
+Adding 4 copies to card number 93
+Card  93 now has 6
+Adding 4 copies to card number 94
+Card  94 now has 6
+Adding 4 copies to card number 95
+Card  95 now has 6
+Adding 4 copies to card number 96
+Card  96 now has 6
+Adding 4 copies to card number 97
+Card  97 now has 6
+Adding 4 copies to card number 98
+Card  98 now has 5
+Adding 4 copies to card number 99
+Card  99 now has 5
+Checking card: 90
+How many copies: 8
+Win count: 9
+Adding 8 copies to card number 91
+Card  91 now has 14
+Adding 8 copies to card number 92
+Card  92 now has 14
+Adding 8 copies to card number 93
+Card  93 now has 14
+Adding 8 copies to card number 94
+Card  94 now has 14
+Adding 8 copies to card number 95
+Card  95 now has 14
+Adding 8 copies to card number 96
+Card  96 now has 14
+Adding 8 copies to card number 97
+Card  97 now has 14
+Adding 8 copies to card number 98
+Card  98 now has 13
+Adding 8 copies to card number 99
+Card  99 now has 13
+Checking card: 91
+How many copies: 14
+Win count: 10
+Adding 14 copies to card number 92
+Card  92 now has 28
+Adding 14 copies to card number 93
+Card  93 now has 28
+Adding 14 copies to card number 94
+Card  94 now has 28
+Adding 14 copies to card number 95
+Card  95 now has 28
+Adding 14 copies to card number 96
+Card  96 now has 28
+Adding 14 copies to card number 97
+Card  97 now has 28
+Adding 14 copies to card number 98
+Card  98 now has 27
+Adding 14 copies to card number 99
+Card  99 now has 27
+Adding 14 copies to card number 100
+Card  100 now has 15
+Adding 14 copies to card number 101
+Card  101 now has 15
+Checking card: 92
+How many copies: 28
+Win count: 9
+Adding 28 copies to card number 93
+Card  93 now has 56
+Adding 28 copies to card number 94
+Card  94 now has 56
+Adding 28 copies to card number 95
+Card  95 now has 56
+Adding 28 copies to card number 96
+Card  96 now has 56
+Adding 28 copies to card number 97
+Card  97 now has 56
+Adding 28 copies to card number 98
+Card  98 now has 55
+Adding 28 copies to card number 99
+Card  99 now has 55
+Adding 28 copies to card number 100
+Card  100 now has 43
+Adding 28 copies to card number 101
+Card  101 now has 43
+Checking card: 93
+How many copies: 56
+Win count: 9
+Adding 56 copies to card number 94
+Card  94 now has 112
+Adding 56 copies to card number 95
+Card  95 now has 112
+Adding 56 copies to card number 96
+Card  96 now has 112
+Adding 56 copies to card number 97
+Card  97 now has 112
+Adding 56 copies to card number 98
+Card  98 now has 111
+Adding 56 copies to card number 99
+Card  99 now has 111
+Adding 56 copies to card number 100
+Card  100 now has 99
+Adding 56 copies to card number 101
+Card  101 now has 99
+Adding 56 copies to card number 102
+Card  102 now has 57
+Checking card: 94
+How many copies: 112
+Win count: 3
+Adding 112 copies to card number 95
+Card  95 now has 224
+Adding 112 copies to card number 96
+Card  96 now has 224
+Adding 112 copies to card number 97
+Card  97 now has 224
+Checking card: 95
+How many copies: 224
+Win count: 4
+Adding 224 copies to card number 96
+Card  96 now has 448
+Adding 224 copies to card number 97
+Card  97 now has 448
+Adding 224 copies to card number 98
+Card  98 now has 335
+Adding 224 copies to card number 99
+Card  99 now has 335
+Checking card: 96
+How many copies: 448
+Win count: 9
+Adding 448 copies to card number 97
+Card  97 now has 896
+Adding 448 copies to card number 98
+Card  98 now has 783
+Adding 448 copies to card number 99
+Card  99 now has 783
+Adding 448 copies to card number 100
+Card  100 now has 547
+Adding 448 copies to card number 101
+Card  101 now has 547
+Adding 448 copies to card number 102
+Card  102 now has 505
+Adding 448 copies to card number 103
+Card  103 now has 449
+Adding 448 copies to card number 104
+Card  104 now has 449
+Adding 448 copies to card number 105
+Card  105 now has 449
+Checking card: 97
+How many copies: 896
+Win count: 3
+Adding 896 copies to card number 98
+Card  98 now has 1679
+Adding 896 copies to card number 99
+Card  99 now has 1679
+Adding 896 copies to card number 100
+Card  100 now has 1443
+Checking card: 98
+How many copies: 1679
+Win count: 10
+Adding 1679 copies to card number 99
+Card  99 now has 3358
+Adding 1679 copies to card number 100
+Card  100 now has 3122
+Adding 1679 copies to card number 101
+Card  101 now has 2226
+Adding 1679 copies to card number 102
+Card  102 now has 2184
+Adding 1679 copies to card number 103
+Card  103 now has 2128
+Adding 1679 copies to card number 104
+Card  104 now has 2128
+Adding 1679 copies to card number 105
+Card  105 now has 2128
+Adding 1679 copies to card number 106
+Card  106 now has 1680
+Adding 1679 copies to card number 107
+Card  107 now has 1680
+Adding 1679 copies to card number 108
+Card  108 now has 1680
+Checking card: 99
+How many copies: 3358
+Win count: 8
+Adding 3358 copies to card number 100
+Card  100 now has 6480
+Adding 3358 copies to card number 101
+Card  101 now has 5584
+Adding 3358 copies to card number 102
+Card  102 now has 5542
+Adding 3358 copies to card number 103
+Card  103 now has 5486
+Adding 3358 copies to card number 104
+Card  104 now has 5486
+Adding 3358 copies to card number 105
+Card  105 now has 5486
+Adding 3358 copies to card number 106
+Card  106 now has 5038
+Adding 3358 copies to card number 107
+Card  107 now has 5038
+Checking card: 100
+How many copies: 6480
+Win count: 4
+Adding 6480 copies to card number 101
+Card  101 now has 12064
+Adding 6480 copies to card number 102
+Card  102 now has 12022
+Adding 6480 copies to card number 103
+Card  103 now has 11966
+Adding 6480 copies to card number 104
+Card  104 now has 11966
+Checking card: 101
+How many copies: 12064
+Win count: 6
+Adding 12064 copies to card number 102
+Card  102 now has 24086
+Adding 12064 copies to card number 103
+Card  103 now has 24030
+Adding 12064 copies to card number 104
+Card  104 now has 24030
+Adding 12064 copies to card number 105
+Card  105 now has 17550
+Adding 12064 copies to card number 106
+Card  106 now has 17102
+Adding 12064 copies to card number 107
+Card  107 now has 17102
+Checking card: 102
+How many copies: 24086
+Win count: 4
+Adding 24086 copies to card number 103
+Card  103 now has 48116
+Adding 24086 copies to card number 104
+Card  104 now has 48116
+Adding 24086 copies to card number 105
+Card  105 now has 41636
+Adding 24086 copies to card number 106
+Card  106 now has 41188
+Checking card: 103
+How many copies: 48116
+Win count: 8
+Adding 48116 copies to card number 104
+Card  104 now has 96232
+Adding 48116 copies to card number 105
+Card  105 now has 89752
+Adding 48116 copies to card number 106
+Card  106 now has 89304
+Adding 48116 copies to card number 107
+Card  107 now has 65218
+Adding 48116 copies to card number 108
+Card  108 now has 49796
+Adding 48116 copies to card number 109
+Card  109 now has 48117
+Adding 48116 copies to card number 110
+Card  110 now has 48117
+Adding 48116 copies to card number 111
+Card  111 now has 48117
+Checking card: 104
+How many copies: 96232
+Win count: 5
+Adding 96232 copies to card number 105
+Card  105 now has 185984
+Adding 96232 copies to card number 106
+Card  106 now has 185536
+Adding 96232 copies to card number 107
+Card  107 now has 161450
+Adding 96232 copies to card number 108
+Card  108 now has 146028
+Adding 96232 copies to card number 109
+Card  109 now has 144349
+Checking card: 105
+How many copies: 185984
+Win count: 0
+Checking card: 106
+How many copies: 185536
+Win count: 4
+Adding 185536 copies to card number 107
+Card  107 now has 346986
+Adding 185536 copies to card number 108
+Card  108 now has 331564
+Adding 185536 copies to card number 109
+Card  109 now has 329885
+Adding 185536 copies to card number 110
+Card  110 now has 233653
+Checking card: 107
+How many copies: 346986
+Win count: 3
+Adding 346986 copies to card number 108
+Card  108 now has 678550
+Adding 346986 copies to card number 109
+Card  109 now has 676871
+Adding 346986 copies to card number 110
+Card  110 now has 580639
+Checking card: 108
+How many copies: 678550
+Win count: 1
+Adding 678550 copies to card number 109
+Card  109 now has 1355421
+Checking card: 109
+How many copies: 1355421
+Win count: 2
+Adding 1355421 copies to card number 110
+Card  110 now has 1936060
+Adding 1355421 copies to card number 111
+Card  111 now has 1403538
+Checking card: 110
+How many copies: 1936060
+Win count: 0
+Checking card: 111
+How many copies: 1403538
+Win count: 0
+Checking card: 112
+How many copies: 1
+Win count: 10
+Adding 1 copies to card number 113
+Card  113 now has 2
+Adding 1 copies to card number 114
+Card  114 now has 2
+Adding 1 copies to card number 115
+Card  115 now has 2
+Adding 1 copies to card number 116
+Card  116 now has 2
+Adding 1 copies to card number 117
+Card  117 now has 2
+Adding 1 copies to card number 118
+Card  118 now has 2
+Adding 1 copies to card number 119
+Card  119 now has 2
+Adding 1 copies to card number 120
+Card  120 now has 2
+Adding 1 copies to card number 121
+Card  121 now has 2
+Adding 1 copies to card number 122
+Card  122 now has 2
+Checking card: 113
+How many copies: 2
+Win count: 5
+Adding 2 copies to card number 114
+Card  114 now has 4
+Adding 2 copies to card number 115
+Card  115 now has 4
+Adding 2 copies to card number 116
+Card  116 now has 4
+Adding 2 copies to card number 117
+Card  117 now has 4
+Adding 2 copies to card number 118
+Card  118 now has 4
+Checking card: 114
+How many copies: 4
+Win count: 10
+Adding 4 copies to card number 115
+Card  115 now has 8
+Adding 4 copies to card number 116
+Card  116 now has 8
+Adding 4 copies to card number 117
+Card  117 now has 8
+Adding 4 copies to card number 118
+Card  118 now has 8
+Adding 4 copies to card number 119
+Card  119 now has 6
+Adding 4 copies to card number 120
+Card  120 now has 6
+Adding 4 copies to card number 121
+Card  121 now has 6
+Adding 4 copies to card number 122
+Card  122 now has 6
+Adding 4 copies to card number 123
+Card  123 now has 5
+Adding 4 copies to card number 124
+Card  124 now has 5
+Checking card: 115
+How many copies: 8
+Win count: 10
+Adding 8 copies to card number 116
+Card  116 now has 16
+Adding 8 copies to card number 117
+Card  117 now has 16
+Adding 8 copies to card number 118
+Card  118 now has 16
+Adding 8 copies to card number 119
+Card  119 now has 14
+Adding 8 copies to card number 120
+Card  120 now has 14
+Adding 8 copies to card number 121
+Card  121 now has 14
+Adding 8 copies to card number 122
+Card  122 now has 14
+Adding 8 copies to card number 123
+Card  123 now has 13
+Adding 8 copies to card number 124
+Card  124 now has 13
+Adding 8 copies to card number 125
+Card  125 now has 9
+Checking card: 116
+How many copies: 16
+Win count: 4
+Adding 16 copies to card number 117
+Card  117 now has 32
+Adding 16 copies to card number 118
+Card  118 now has 32
+Adding 16 copies to card number 119
+Card  119 now has 30
+Adding 16 copies to card number 120
+Card  120 now has 30
+Checking card: 117
+How many copies: 32
+Win count: 7
+Adding 32 copies to card number 118
+Card  118 now has 64
+Adding 32 copies to card number 119
+Card  119 now has 62
+Adding 32 copies to card number 120
+Card  120 now has 62
+Adding 32 copies to card number 121
+Card  121 now has 46
+Adding 32 copies to card number 122
+Card  122 now has 46
+Adding 32 copies to card number 123
+Card  123 now has 45
+Adding 32 copies to card number 124
+Card  124 now has 45
+Checking card: 118
+How many copies: 64
+Win count: 3
+Adding 64 copies to card number 119
+Card  119 now has 126
+Adding 64 copies to card number 120
+Card  120 now has 126
+Adding 64 copies to card number 121
+Card  121 now has 110
+Checking card: 119
+How many copies: 126
+Win count: 8
+Adding 126 copies to card number 120
+Card  120 now has 252
+Adding 126 copies to card number 121
+Card  121 now has 236
+Adding 126 copies to card number 122
+Card  122 now has 172
+Adding 126 copies to card number 123
+Card  123 now has 171
+Adding 126 copies to card number 124
+Card  124 now has 171
+Adding 126 copies to card number 125
+Card  125 now has 135
+Adding 126 copies to card number 126
+Card  126 now has 127
+Adding 126 copies to card number 127
+Card  127 now has 127
+Checking card: 120
+How many copies: 252
+Win count: 9
+Adding 252 copies to card number 121
+Card  121 now has 488
+Adding 252 copies to card number 122
+Card  122 now has 424
+Adding 252 copies to card number 123
+Card  123 now has 423
+Adding 252 copies to card number 124
+Card  124 now has 423
+Adding 252 copies to card number 125
+Card  125 now has 387
+Adding 252 copies to card number 126
+Card  126 now has 379
+Adding 252 copies to card number 127
+Card  127 now has 379
+Adding 252 copies to card number 128
+Card  128 now has 253
+Adding 252 copies to card number 129
+Card  129 now has 253
+Checking card: 121
+How many copies: 488
+Win count: 1
+Adding 488 copies to card number 122
+Card  122 now has 912
+Checking card: 122
+How many copies: 912
+Win count: 6
+Adding 912 copies to card number 123
+Card  123 now has 1335
+Adding 912 copies to card number 124
+Card  124 now has 1335
+Adding 912 copies to card number 125
+Card  125 now has 1299
+Adding 912 copies to card number 126
+Card  126 now has 1291
+Adding 912 copies to card number 127
+Card  127 now has 1291
+Adding 912 copies to card number 128
+Card  128 now has 1165
+Checking card: 123
+How many copies: 1335
+Win count: 4
+Adding 1335 copies to card number 124
+Card  124 now has 2670
+Adding 1335 copies to card number 125
+Card  125 now has 2634
+Adding 1335 copies to card number 126
+Card  126 now has 2626
+Adding 1335 copies to card number 127
+Card  127 now has 2626
+Checking card: 124
+How many copies: 2670
+Win count: 2
+Adding 2670 copies to card number 125
+Card  125 now has 5304
+Adding 2670 copies to card number 126
+Card  126 now has 5296
+Checking card: 125
+How many copies: 5304
+Win count: 1
+Adding 5304 copies to card number 126
+Card  126 now has 10600
+Checking card: 126
+How many copies: 10600
+Win count: 3
+Adding 10600 copies to card number 127
+Card  127 now has 13226
+Adding 10600 copies to card number 128
+Card  128 now has 11765
+Adding 10600 copies to card number 129
+Card  129 now has 10853
+Checking card: 127
+How many copies: 13226
+Win count: 2
+Adding 13226 copies to card number 128
+Card  128 now has 24991
+Adding 13226 copies to card number 129
+Card  129 now has 24079
+Checking card: 128
+How many copies: 24991
+Win count: 1
+Adding 24991 copies to card number 129
+Card  129 now has 49070
+Checking card: 129
+How many copies: 49070
+Win count: 0
+Checking card: 130
+How many copies: 1
+Win count: 4
+Adding 1 copies to card number 131
+Card  131 now has 2
+Adding 1 copies to card number 132
+Card  132 now has 2
+Adding 1 copies to card number 133
+Card  133 now has 2
+Adding 1 copies to card number 134
+Card  134 now has 2
+Checking card: 131
+How many copies: 2
+Win count: 7
+Adding 2 copies to card number 132
+Card  132 now has 4
+Adding 2 copies to card number 133
+Card  133 now has 4
+Adding 2 copies to card number 134
+Card  134 now has 4
+Adding 2 copies to card number 135
+Card  135 now has 3
+Adding 2 copies to card number 136
+Card  136 now has 3
+Adding 2 copies to card number 137
+Card  137 now has 3
+Adding 2 copies to card number 138
+Card  138 now has 3
+Checking card: 132
+How many copies: 4
+Win count: 4
+Adding 4 copies to card number 133
+Card  133 now has 8
+Adding 4 copies to card number 134
+Card  134 now has 8
+Adding 4 copies to card number 135
+Card  135 now has 7
+Adding 4 copies to card number 136
+Card  136 now has 7
+Checking card: 133
+How many copies: 8
+Win count: 7
+Adding 8 copies to card number 134
+Card  134 now has 16
+Adding 8 copies to card number 135
+Card  135 now has 15
+Adding 8 copies to card number 136
+Card  136 now has 15
+Adding 8 copies to card number 137
+Card  137 now has 11
+Adding 8 copies to card number 138
+Card  138 now has 11
+Adding 8 copies to card number 139
+Card  139 now has 9
+Adding 8 copies to card number 140
+Card  140 now has 9
+Checking card: 134
+How many copies: 16
+Win count: 3
+Adding 16 copies to card number 135
+Card  135 now has 31
+Adding 16 copies to card number 136
+Card  136 now has 31
+Adding 16 copies to card number 137
+Card  137 now has 27
+Checking card: 135
+How many copies: 31
+Win count: 5
+Adding 31 copies to card number 136
+Card  136 now has 62
+Adding 31 copies to card number 137
+Card  137 now has 58
+Adding 31 copies to card number 138
+Card  138 now has 42
+Adding 31 copies to card number 139
+Card  139 now has 40
+Adding 31 copies to card number 140
+Card  140 now has 40
+Checking card: 136
+How many copies: 62
+Win count: 3
+Adding 62 copies to card number 137
+Card  137 now has 120
+Adding 62 copies to card number 138
+Card  138 now has 104
+Adding 62 copies to card number 139
+Card  139 now has 102
+Checking card: 137
+How many copies: 120
+Win count: 0
+Checking card: 138
+How many copies: 104
+Win count: 3
+Adding 104 copies to card number 139
+Card  139 now has 206
+Adding 104 copies to card number 140
+Card  140 now has 144
+Adding 104 copies to card number 141
+Card  141 now has 105
+Checking card: 139
+How many copies: 206
+Win count: 5
+Adding 206 copies to card number 140
+Card  140 now has 350
+Adding 206 copies to card number 141
+Card  141 now has 311
+Adding 206 copies to card number 142
+Card  142 now has 207
+Adding 206 copies to card number 143
+Card  143 now has 207
+Adding 206 copies to card number 144
+Card  144 now has 207
+Checking card: 140
+How many copies: 350
+Win count: 0
+Checking card: 141
+How many copies: 311
+Win count: 2
+Adding 311 copies to card number 142
+Card  142 now has 518
+Adding 311 copies to card number 143
+Card  143 now has 518
+Checking card: 142
+How many copies: 518
+Win count: 2
+Adding 518 copies to card number 143
+Card  143 now has 1036
+Adding 518 copies to card number 144
+Card  144 now has 725
+Checking card: 143
+How many copies: 1036
+Win count: 1
+Adding 1036 copies to card number 144
+Card  144 now has 1761
+Checking card: 144
+How many copies: 1761
+Win count: 0
+Checking card: 145
+How many copies: 1
+Win count: 0
+Checking card: 146
+How many copies: 1
+Win count: 10
+Adding 1 copies to card number 147
+Card  147 now has 2
+Adding 1 copies to card number 148
+Card  148 now has 2
+Adding 1 copies to card number 149
+Card  149 now has 2
+Adding 1 copies to card number 150
+Card  150 now has 2
+Adding 1 copies to card number 151
+Card  151 now has 2
+Adding 1 copies to card number 152
+Card  152 now has 2
+Adding 1 copies to card number 153
+Card  153 now has 2
+Adding 1 copies to card number 154
+Card  154 now has 2
+Adding 1 copies to card number 155
+Card  155 now has 2
+Adding 1 copies to card number 156
+Card  156 now has 2
+Checking card: 147
+How many copies: 2
+Win count: 5
+Adding 2 copies to card number 148
+Card  148 now has 4
+Adding 2 copies to card number 149
+Card  149 now has 4
+Adding 2 copies to card number 150
+Card  150 now has 4
+Adding 2 copies to card number 151
+Card  151 now has 4
+Adding 2 copies to card number 152
+Card  152 now has 4
+Checking card: 148
+How many copies: 4
+Win count: 8
+Adding 4 copies to card number 149
+Card  149 now has 8
+Adding 4 copies to card number 150
+Card  150 now has 8
+Adding 4 copies to card number 151
+Card  151 now has 8
+Adding 4 copies to card number 152
+Card  152 now has 8
+Adding 4 copies to card number 153
+Card  153 now has 6
+Adding 4 copies to card number 154
+Card  154 now has 6
+Adding 4 copies to card number 155
+Card  155 now has 6
+Adding 4 copies to card number 156
+Card  156 now has 6
+Checking card: 149
+How many copies: 8
+Win count: 2
+Adding 8 copies to card number 150
+Card  150 now has 16
+Adding 8 copies to card number 151
+Card  151 now has 16
+Checking card: 150
+How many copies: 16
+Win count: 10
+Adding 16 copies to card number 151
+Card  151 now has 32
+Adding 16 copies to card number 152
+Card  152 now has 24
+Adding 16 copies to card number 153
+Card  153 now has 22
+Adding 16 copies to card number 154
+Card  154 now has 22
+Adding 16 copies to card number 155
+Card  155 now has 22
+Adding 16 copies to card number 156
+Card  156 now has 22
+Adding 16 copies to card number 157
+Card  157 now has 17
+Adding 16 copies to card number 158
+Card  158 now has 17
+Adding 16 copies to card number 159
+Card  159 now has 17
+Adding 16 copies to card number 160
+Card  160 now has 17
+Checking card: 151
+How many copies: 32
+Win count: 6
+Adding 32 copies to card number 152
+Card  152 now has 56
+Adding 32 copies to card number 153
+Card  153 now has 54
+Adding 32 copies to card number 154
+Card  154 now has 54
+Adding 32 copies to card number 155
+Card  155 now has 54
+Adding 32 copies to card number 156
+Card  156 now has 54
+Adding 32 copies to card number 157
+Card  157 now has 49
+Checking card: 152
+How many copies: 56
+Win count: 10
+Adding 56 copies to card number 153
+Card  153 now has 110
+Adding 56 copies to card number 154
+Card  154 now has 110
+Adding 56 copies to card number 155
+Card  155 now has 110
+Adding 56 copies to card number 156
+Card  156 now has 110
+Adding 56 copies to card number 157
+Card  157 now has 105
+Adding 56 copies to card number 158
+Card  158 now has 73
+Adding 56 copies to card number 159
+Card  159 now has 73
+Adding 56 copies to card number 160
+Card  160 now has 73
+Adding 56 copies to card number 161
+Card  161 now has 57
+Adding 56 copies to card number 162
+Card  162 now has 57
+Checking card: 153
+How many copies: 110
+Win count: 7
+Adding 110 copies to card number 154
+Card  154 now has 220
+Adding 110 copies to card number 155
+Card  155 now has 220
+Adding 110 copies to card number 156
+Card  156 now has 220
+Adding 110 copies to card number 157
+Card  157 now has 215
+Adding 110 copies to card number 158
+Card  158 now has 183
+Adding 110 copies to card number 159
+Card  159 now has 183
+Adding 110 copies to card number 160
+Card  160 now has 183
+Checking card: 154
+How many copies: 220
+Win count: 8
+Adding 220 copies to card number 155
+Card  155 now has 440
+Adding 220 copies to card number 156
+Card  156 now has 440
+Adding 220 copies to card number 157
+Card  157 now has 435
+Adding 220 copies to card number 158
+Card  158 now has 403
+Adding 220 copies to card number 159
+Card  159 now has 403
+Adding 220 copies to card number 160
+Card  160 now has 403
+Adding 220 copies to card number 161
+Card  161 now has 277
+Adding 220 copies to card number 162
+Card  162 now has 277
+Checking card: 155
+How many copies: 440
+Win count: 10
+Adding 440 copies to card number 156
+Card  156 now has 880
+Adding 440 copies to card number 157
+Card  157 now has 875
+Adding 440 copies to card number 158
+Card  158 now has 843
+Adding 440 copies to card number 159
+Card  159 now has 843
+Adding 440 copies to card number 160
+Card  160 now has 843
+Adding 440 copies to card number 161
+Card  161 now has 717
+Adding 440 copies to card number 162
+Card  162 now has 717
+Adding 440 copies to card number 163
+Card  163 now has 441
+Adding 440 copies to card number 164
+Card  164 now has 441
+Adding 440 copies to card number 165
+Card  165 now has 441
+Checking card: 156
+How many copies: 880
+Win count: 10
+Adding 880 copies to card number 157
+Card  157 now has 1755
+Adding 880 copies to card number 158
+Card  158 now has 1723
+Adding 880 copies to card number 159
+Card  159 now has 1723
+Adding 880 copies to card number 160
+Card  160 now has 1723
+Adding 880 copies to card number 161
+Card  161 now has 1597
+Adding 880 copies to card number 162
+Card  162 now has 1597
+Adding 880 copies to card number 163
+Card  163 now has 1321
+Adding 880 copies to card number 164
+Card  164 now has 1321
+Adding 880 copies to card number 165
+Card  165 now has 1321
+Adding 880 copies to card number 166
+Card  166 now has 881
+Checking card: 157
+How many copies: 1755
+Win count: 2
+Adding 1755 copies to card number 158
+Card  158 now has 3478
+Adding 1755 copies to card number 159
+Card  159 now has 3478
+Checking card: 158
+How many copies: 3478
+Win count: 3
+Adding 3478 copies to card number 159
+Card  159 now has 6956
+Adding 3478 copies to card number 160
+Card  160 now has 5201
+Adding 3478 copies to card number 161
+Card  161 now has 5075
+Checking card: 159
+How many copies: 6956
+Win count: 5
+Adding 6956 copies to card number 160
+Card  160 now has 12157
+Adding 6956 copies to card number 161
+Card  161 now has 12031
+Adding 6956 copies to card number 162
+Card  162 now has 8553
+Adding 6956 copies to card number 163
+Card  163 now has 8277
+Adding 6956 copies to card number 164
+Card  164 now has 8277
+Checking card: 160
+How many copies: 12157
+Win count: 2
+Adding 12157 copies to card number 161
+Card  161 now has 24188
+Adding 12157 copies to card number 162
+Card  162 now has 20710
+Checking card: 161
+How many copies: 24188
+Win count: 4
+Adding 24188 copies to card number 162
+Card  162 now has 44898
+Adding 24188 copies to card number 163
+Card  163 now has 32465
+Adding 24188 copies to card number 164
+Card  164 now has 32465
+Adding 24188 copies to card number 165
+Card  165 now has 25509
+Checking card: 162
+How many copies: 44898
+Win count: 3
+Adding 44898 copies to card number 163
+Card  163 now has 77363
+Adding 44898 copies to card number 164
+Card  164 now has 77363
+Adding 44898 copies to card number 165
+Card  165 now has 70407
+Checking card: 163
+How many copies: 77363
+Win count: 2
+Adding 77363 copies to card number 164
+Card  164 now has 154726
+Adding 77363 copies to card number 165
+Card  165 now has 147770
+Checking card: 164
+How many copies: 154726
+Win count: 4
+Adding 154726 copies to card number 165
+Card  165 now has 302496
+Adding 154726 copies to card number 166
+Card  166 now has 155607
+Adding 154726 copies to card number 167
+Card  167 now has 154727
+Adding 154726 copies to card number 168
+Card  168 now has 154727
+Checking card: 165
+How many copies: 302496
+Win count: 1
+Adding 302496 copies to card number 166
+Card  166 now has 458103
+Checking card: 166
+How many copies: 458103
+Win count: 2
+Adding 458103 copies to card number 167
+Card  167 now has 612830
+Adding 458103 copies to card number 168
+Card  168 now has 612830
+Checking card: 167
+How many copies: 612830
+Win count: 0
+Checking card: 168
+How many copies: 612830
+Win count: 0
+Checking card: 169
+How many copies: 1
+Win count: 0
+Checking card: 170
+How many copies: 1
+Win count: 9
+Adding 1 copies to card number 171
+Card  171 now has 2
+Adding 1 copies to card number 172
+Card  172 now has 2
+Adding 1 copies to card number 173
+Card  173 now has 2
+Adding 1 copies to card number 174
+Card  174 now has 2
+Adding 1 copies to card number 175
+Card  175 now has 2
+Adding 1 copies to card number 176
+Card  176 now has 2
+Adding 1 copies to card number 177
+Card  177 now has 2
+Adding 1 copies to card number 178
+Card  178 now has 2
+Adding 1 copies to card number 179
+Card  179 now has 2
+Checking card: 171
+How many copies: 2
+Win count: 5
+Adding 2 copies to card number 172
+Card  172 now has 4
+Adding 2 copies to card number 173
+Card  173 now has 4
+Adding 2 copies to card number 174
+Card  174 now has 4
+Adding 2 copies to card number 175
+Card  175 now has 4
+Adding 2 copies to card number 176
+Card  176 now has 4
+Checking card: 172
+How many copies: 4
+Win count: 3
+Adding 4 copies to card number 173
+Card  173 now has 8
+Adding 4 copies to card number 174
+Card  174 now has 8
+Adding 4 copies to card number 175
+Card  175 now has 8
+Checking card: 173
+How many copies: 8
+Win count: 0
+Checking card: 174
+How many copies: 8
+Win count: 10
+Adding 8 copies to card number 175
+Card  175 now has 16
+Adding 8 copies to card number 176
+Card  176 now has 12
+Adding 8 copies to card number 177
+Card  177 now has 10
+Adding 8 copies to card number 178
+Card  178 now has 10
+Adding 8 copies to card number 179
+Card  179 now has 10
+Adding 8 copies to card number 180
+Card  180 now has 9
+Adding 8 copies to card number 181
+Card  181 now has 9
+Adding 8 copies to card number 182
+Card  182 now has 9
+Adding 8 copies to card number 183
+Card  183 now has 9
+Adding 8 copies to card number 184
+Card  184 now has 9
+Checking card: 175
+How many copies: 16
+Win count: 9
+Adding 16 copies to card number 176
+Card  176 now has 28
+Adding 16 copies to card number 177
+Card  177 now has 26
+Adding 16 copies to card number 178
+Card  178 now has 26
+Adding 16 copies to card number 179
+Card  179 now has 26
+Adding 16 copies to card number 180
+Card  180 now has 25
+Adding 16 copies to card number 181
+Card  181 now has 25
+Adding 16 copies to card number 182
+Card  182 now has 25
+Adding 16 copies to card number 183
+Card  183 now has 25
+Adding 16 copies to card number 184
+Card  184 now has 25
+Checking card: 176
+How many copies: 28
+Win count: 10
+Adding 28 copies to card number 177
+Card  177 now has 54
+Adding 28 copies to card number 178
+Card  178 now has 54
+Adding 28 copies to card number 179
+Card  179 now has 54
+Adding 28 copies to card number 180
+Card  180 now has 53
+Adding 28 copies to card number 181
+Card  181 now has 53
+Adding 28 copies to card number 182
+Card  182 now has 53
+Adding 28 copies to card number 183
+Card  183 now has 53
+Adding 28 copies to card number 184
+Card  184 now has 53
+Adding 28 copies to card number 185
+Card  185 now has 29
+Adding 28 copies to card number 186
+Card  186 now has 29
+Checking card: 177
+How many copies: 54
+Win count: 4
+Adding 54 copies to card number 178
+Card  178 now has 108
+Adding 54 copies to card number 179
+Card  179 now has 108
+Adding 54 copies to card number 180
+Card  180 now has 107
+Adding 54 copies to card number 181
+Card  181 now has 107
+Checking card: 178
+How many copies: 108
+Win count: 7
+Adding 108 copies to card number 179
+Card  179 now has 216
+Adding 108 copies to card number 180
+Card  180 now has 215
+Adding 108 copies to card number 181
+Card  181 now has 215
+Adding 108 copies to card number 182
+Card  182 now has 161
+Adding 108 copies to card number 183
+Card  183 now has 161
+Adding 108 copies to card number 184
+Card  184 now has 161
+Adding 108 copies to card number 185
+Card  185 now has 137
+Checking card: 179
+How many copies: 216
+Win count: 10
+Adding 216 copies to card number 180
+Card  180 now has 431
+Adding 216 copies to card number 181
+Card  181 now has 431
+Adding 216 copies to card number 182
+Card  182 now has 377
+Adding 216 copies to card number 183
+Card  183 now has 377
+Adding 216 copies to card number 184
+Card  184 now has 377
+Adding 216 copies to card number 185
+Card  185 now has 353
+Adding 216 copies to card number 186
+Card  186 now has 245
+Adding 216 copies to card number 187
+Card  187 now has 217
+Adding 216 copies to card number 188
+Card  188 now has 217
+Adding 216 copies to card number 189
+Card  189 now has 217
+Checking card: 180
+How many copies: 431
+Win count: 10
+Adding 431 copies to card number 181
+Card  181 now has 862
+Adding 431 copies to card number 182
+Card  182 now has 808
+Adding 431 copies to card number 183
+Card  183 now has 808
+Adding 431 copies to card number 184
+Card  184 now has 808
+Adding 431 copies to card number 185
+Card  185 now has 784
+Adding 431 copies to card number 186
+Card  186 now has 676
+Adding 431 copies to card number 187
+Card  187 now has 648
+Adding 431 copies to card number 188
+Card  188 now has 648
+Adding 431 copies to card number 189
+Card  189 now has 648
+Adding 431 copies to card number 190
+Card  190 now has 432
+Checking card: 181
+How many copies: 862
+Win count: 10
+Adding 862 copies to card number 182
+Card  182 now has 1670
+Adding 862 copies to card number 183
+Card  183 now has 1670
+Adding 862 copies to card number 184
+Card  184 now has 1670
+Adding 862 copies to card number 185
+Card  185 now has 1646
+Adding 862 copies to card number 186
+Card  186 now has 1538
+Adding 862 copies to card number 187
+Card  187 now has 1510
+Adding 862 copies to card number 188
+Card  188 now has 1510
+Adding 862 copies to card number 189
+Card  189 now has 1510
+Adding 862 copies to card number 190
+Card  190 now has 1294
+Adding 862 copies to card number 191
+Card  191 now has 863
+Checking card: 182
+How many copies: 1670
+Win count: 1
+Adding 1670 copies to card number 183
+Card  183 now has 3340
+Checking card: 183
+How many copies: 3340
+Win count: 0
+Checking card: 184
+How many copies: 1670
+Win count: 9
+Adding 1670 copies to card number 185
+Card  185 now has 3316
+Adding 1670 copies to card number 186
+Card  186 now has 3208
+Adding 1670 copies to card number 187
+Card  187 now has 3180
+Adding 1670 copies to card number 188
+Card  188 now has 3180
+Adding 1670 copies to card number 189
+Card  189 now has 3180
+Adding 1670 copies to card number 190
+Card  190 now has 2964
+Adding 1670 copies to card number 191
+Card  191 now has 2533
+Adding 1670 copies to card number 192
+Card  192 now has 1671
+Adding 1670 copies to card number 193
+Card  193 now has 1671
+Checking card: 185
+How many copies: 3316
+Win count: 3
+Adding 3316 copies to card number 186
+Card  186 now has 6524
+Adding 3316 copies to card number 187
+Card  187 now has 6496
+Adding 3316 copies to card number 188
+Card  188 now has 6496
+Checking card: 186
+How many copies: 6524
+Win count: 0
+Checking card: 187
+How many copies: 6496
+Win count: 3
+Adding 6496 copies to card number 188
+Card  188 now has 12992
+Adding 6496 copies to card number 189
+Card  189 now has 9676
+Adding 6496 copies to card number 190
+Card  190 now has 9460
+Checking card: 188
+How many copies: 12992
+Win count: 5
+Adding 12992 copies to card number 189
+Card  189 now has 22668
+Adding 12992 copies to card number 190
+Card  190 now has 22452
+Adding 12992 copies to card number 191
+Card  191 now has 15525
+Adding 12992 copies to card number 192
+Card  192 now has 14663
+Adding 12992 copies to card number 193
+Card  193 now has 14663
+Checking card: 189
+How many copies: 22668
+Win count: 5
+Adding 22668 copies to card number 190
+Card  190 now has 45120
+Adding 22668 copies to card number 191
+Card  191 now has 38193
+Adding 22668 copies to card number 192
+Card  192 now has 37331
+Adding 22668 copies to card number 193
+Card  193 now has 37331
+Adding 22668 copies to card number 194
+Card  194 now has 22669
+Checking card: 190
+How many copies: 45120
+Win count: 2
+Adding 45120 copies to card number 191
+Card  191 now has 83313
+Adding 45120 copies to card number 192
+Card  192 now has 82451
+Checking card: 191
+How many copies: 83313
+Win count: 1
+Adding 83313 copies to card number 192
+Card  192 now has 165764
+Checking card: 192
+How many copies: 165764
+Win count: 2
+Adding 165764 copies to card number 193
+Card  193 now has 203095
+Adding 165764 copies to card number 194
+Card  194 now has 188433
+Checking card: 193
+How many copies: 203095
+Win count: 1
+Adding 203095 copies to card number 194
+Card  194 now has 391528
+Checking card: 194
+How many copies: 391528
+Win count: 0
+Checking card: 195
+How many copies: 1
+Win count: 9
+Adding 1 copies to card number 196
+Card  196 now has 2
+Adding 1 copies to card number 197
+Card  197 now has 2
+Adding 1 copies to card number 198
+Card  198 now has 2
+Adding 1 copies to card number 199
+Card  199 now has 2
+Adding 1 copies to card number 200
+Card  200 now has 2
+Adding 1 copies to card number 201
+Card  201 now has 2
+Adding 1 copies to card number 202
+Card  202 now has 2
+Adding 1 copies to card number 203
+Card  203 now has 2
+Adding 1 copies to card number 204
+Card  204 now has 2
+Checking card: 196
+How many copies: 2
+Win count: 3
+Adding 2 copies to card number 197
+Card  197 now has 4
+Adding 2 copies to card number 198
+Card  198 now has 4
+Adding 2 copies to card number 199
+Card  199 now has 4
+Checking card: 197
+How many copies: 4
+Win count: 6
+Adding 4 copies to card number 198
+Card  198 now has 8
+Adding 4 copies to card number 199
+Card  199 now has 8
+Adding 4 copies to card number 200
+Card  200 now has 6
+Adding 4 copies to card number 201
+Card  201 now has 6
+Adding 4 copies to card number 202
+Card  202 now has 6
+Adding 4 copies to card number 203
+Card  203 now has 6
+Checking card: 198
+How many copies: 8
+Win count: 10
+Adding 8 copies to card number 199
+Card  199 now has 16
+Adding 8 copies to card number 200
+Card  200 now has 14
+Adding 8 copies to card number 201
+Card  201 now has 14
+Adding 8 copies to card number 202
+Card  202 now has 14
+Adding 8 copies to card number 203
+Card  203 now has 14
+Adding 8 copies to card number 204
+Card  204 now has 10
+Adding 8 copies to card number 205
+Card  205 now has 9
+Adding 8 copies to card number 206
+Card  206 now has 9
+Adding 8 copies to card number 207
+Card  207 now has 9
+Adding 8 copies to card number 208
+Card  208 now has 9
+Checking card: 199
+How many copies: 16
+Win count: 3
+Adding 16 copies to card number 200
+Card  200 now has 30
+Adding 16 copies to card number 201
+Card  201 now has 30
+Adding 16 copies to card number 202
+Card  202 now has 30
+Checking card: 200
+How many copies: 30
+Win count: 10
+Adding 30 copies to card number 201
+Card  201 now has 60
+Adding 30 copies to card number 202
+Card  202 now has 60
+Adding 30 copies to card number 203
+Card  203 now has 44
+Adding 30 copies to card number 204
+Card  204 now has 40
+Adding 30 copies to card number 205
+Card  205 now has 39
+Adding 30 copies to card number 206
+Card  206 now has 39
+Adding 30 copies to card number 207
+Card  207 now has 39
+Adding 30 copies to card number 208
+Card  208 now has 39
+Adding 30 copies to card number 209
+Card  209 now has 31
+Adding 30 copies to card number 210
+Card  210 now has 31
+Checking card: 201
+How many copies: 60
+Win count: 4
+Adding 60 copies to card number 202
+Card  202 now has 120
+Adding 60 copies to card number 203
+Card  203 now has 104
+Adding 60 copies to card number 204
+Card  204 now has 100
+Adding 60 copies to card number 205
+Card  205 now has 99
+Checking card: 202
+How many copies: 120
+Win count: 9
+Adding 120 copies to card number 203
+Card  203 now has 224
+Adding 120 copies to card number 204
+Card  204 now has 220
+Adding 120 copies to card number 205
+Card  205 now has 219
+Adding 120 copies to card number 206
+Card  206 now has 159
+Adding 120 copies to card number 207
+Card  207 now has 159
+Adding 120 copies to card number 208
+Card  208 now has 159
+Adding 120 copies to card number 209
+Card  209 now has 151
+Adding 120 copies to card number 210
+Card  210 now has 151
+Adding 120 copies to card number 211
+Card  211 now has 121
+Checking card: 203
+How many copies: 224
+Win count: 6
+Adding 224 copies to card number 204
+Card  204 now has 444
+Adding 224 copies to card number 205
+Card  205 now has 443
+Adding 224 copies to card number 206
+Card  206 now has 383
+Adding 224 copies to card number 207
+Card  207 now has 383
+Adding 224 copies to card number 208
+Card  208 now has 383
+Adding 224 copies to card number 209
+Card  209 now has 375
+Checking card: 204
+How many copies: 444
+Win count: 1
+Adding 444 copies to card number 205
+Card  205 now has 887
+Checking card: 205
+How many copies: 887
+Win count: 1
+Adding 887 copies to card number 206
+Card  206 now has 1270
+Checking card: 206
+How many copies: 1270
+Win count: 0
+Checking card: 207
+How many copies: 383
+Win count: 2
+Adding 383 copies to card number 208
+Card  208 now has 766
+Adding 383 copies to card number 209
+Card  209 now has 758
+Checking card: 208
+How many copies: 766
+Win count: 5
+Adding 766 copies to card number 209
+Card  209 now has 1524
+Adding 766 copies to card number 210
+Card  210 now has 917
+Adding 766 copies to card number 211
+Card  211 now has 887
+Adding 766 copies to card number 212
+Card  212 now has 767
+Adding 766 copies to card number 213
+Card  213 now has 767
+Checking card: 209
+How many copies: 1524
+Win count: 0
+Checking card: 210
+How many copies: 917
+Win count: 4
+Adding 917 copies to card number 211
+Card  211 now has 1804
+Adding 917 copies to card number 212
+Card  212 now has 1684
+Adding 917 copies to card number 213
+Card  213 now has 1684
+Adding 917 copies to card number 214
+Card  214 now has 918
+Checking card: 211
+How many copies: 1804
+Win count: 0
+Checking card: 212
+How many copies: 1684
+Win count: 0
+Checking card: 213
+How many copies: 1684
+Win count: 0
+Checking card: 214
+How many copies: 918
+Win count: 0

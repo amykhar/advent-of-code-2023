@@ -1,0 +1,2 @@
+The sum of all part numbers is: 535351
+The sum of all gear ratios is: 87287096

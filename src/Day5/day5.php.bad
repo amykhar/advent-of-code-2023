@@ -1,0 +1,213 @@
+<?php
+
+require '../utils/readFile.php';
+require '../utils/log.php';
+require '../utils/stringFuncs.php';
+
+//////////////////////////////////
+
+class Garden
+{
+    private array $seed_to_soil;
+    private array $soil_to_fertilizer;
+    private array $fertilizer_to_water;
+    private array $water_to_light;
+    private array $light_to_temperature;
+    private array $temperature_to_humidity;
+    private array $humidity_to_location;
+    private array $almanacData;
+
+    private ?int $closest = null;
+
+    function __construct(array $dataArray, array $seeds)
+    {
+        $this->almanacData = [];
+        $this->parseMaps($dataArray);
+
+        $this->seed_to_soil = $this->almanacData['seed-to-soil'];
+        $this->soil_to_fertilizer = $this->almanacData['soil-to-fertilizer'];
+        $this->fertilizer_to_water = $this->almanacData['fertilizer-to-water'];
+        $this->water_to_light = $this->almanacData['water-to-light'];
+        $this->light_to_temperature = $this->almanacData['light-to-temperature'];
+        $this->temperature_to_humidity = $this->almanacData['temperature-to-humidity'];
+        $this->humidity_to_location = $this->almanacData['humidity-to-location'];
+
+        foreach ($seeds as $seed => $range) {
+            $this->calculateLocation($seed, $range);
+        }
+    }
+
+    public function getClosest(): int
+    {
+        return $this->closest;
+    }
+
+    private function calculateLocation(int $seed, int $range): void
+    {
+        $soil = $this->getMappedValue([$seed, $range], $this->seed_to_soil);
+        $fertilizer = $this->getMappedValue($soil, $this->soil_to_fertilizer);
+        $water = $this->getMappedValue($fertilizer, $this->fertilizer_to_water);
+        $light = $this->getMappedValue($water, $this->water_to_light);
+        $temperature = $this->getMappedValue($light,  $this->light_to_temperature);
+        $humidity = $this->getMappedValue($temperature, $this->temperature_to_humidity);
+        $location = $this->getMappedValue($humidity,  $this->humidity_to_location);
+        $this->calculateClosest($location[0]);
+    }
+
+    private function parseMaps($dataArray): void
+    {
+        $keyFound = false;
+
+        foreach ($dataArray as $line) {
+            $line = trim($line);
+            if ($line) {
+                if (str_contains($line, ':') !== false) {
+                    $keyRow = explode(':', $line);
+                    $key = $keyRow[0];
+                    $key = str_replace(' map', '', $key);
+                    $keyFound = true;
+                    if ('seeds' === $key) {
+                        $keyFound = false;
+                    }
+                }
+                if ($keyFound && !array_key_exists($key, $this->almanacData)) {
+                    $this->almanacData[$key] = [];
+                } elseif ($keyFound) {
+                    $rawMap = explode(' ', $line);
+                    $this->almanacData[$key][$rawMap[1]] = [
+                        'destination_range_start' => $rawMap[0],
+                        'source_range_start' => $rawMap[1],
+                        'range_length' => $rawMap[2],
+                    ];
+                }
+            } else {
+                $keyFound = false;
+            }
+        }
+    }
+    private function getMappedValue(array $source, array $array, array $result = []): array
+    {
+        $indexes = array_keys($array);
+        rsort($indexes);
+        $highestIndex = max($indexes);
+        $sourceStart = $source[0];
+        echo "Source Start: $sourceStart" . PHP_EOL;
+        $range = $source[1];
+        echo "Range: $range" . PHP_EOL;
+        echo "Indexes: \n";
+        print_r($indexes);
+        foreach ($indexes as $index) {
+            echo "Index: $index" . PHP_EOL;
+            if ($sourceStart >= $index) {
+                $max = $index + $array[$index]['range_length'];
+                echo "Max: $max" . PHP_EOL;
+                $diff = $sourceStart - $index;
+                echo "Diff: $diff ". PHP_EOL;
+                $destinationStart = $array[$index]['destination_range_start'];
+                $destination = $destinationStart + $diff;
+                if($sourceStart > $max){
+                    echo "Source Start > Max \n";
+                    return ($source);
+                }
+                return ([$destination, $array[$index]['range_length']]);
+                if (empty($result)) {
+                    $result = [$destinationStart + $diff, $newRange];
+                }
+                if ($sourceStartMax > $max) {
+                    $remainder = $sourceStartMax - $max;
+                    if ($max <= $highestIndex) {
+                        $newSourceStart = $max;  //amy is here
+                        return ($this->getMappedValue([$newSourceStart, $remainder], $array, $result));
+                    }
+                }
+
+                 if (!empty($result)) {
+                     if ($result[0] >= $destinationStart + $diff) {
+                         $dest = $destinationStart + $diff;
+                     } else {
+                         $dest = $result[0];
+                     }
+                     if ($newRange !== $range)
+                     {
+                         $range = $newRange;
+                     }
+
+                     $result = [$dest, $range];
+                 }
+                 return $result;
+            }
+        }
+        return $source;
+    }
+
+    private function getValue($index, $array): int
+    {
+        if (array_key_exists($index, $array)) {
+            return $array[$index];
+        }
+        return $index;
+    }
+
+    private function calculateClosest($location)
+    {
+        if (null === $this->closest) {
+            $this->closest = $location;
+        } elseif ($location < $this->closest) {
+            $this->closest = $location;
+        }
+    }
+}
+
+function getSeeds($data): array
+{
+    $seedsArray = explode('seeds:', trim($data));
+    return explode(' ', trim($seedsArray[1]));
+}
+
+function parseSeeds($seedArray): array
+{
+    $seeds = [];
+    foreach ($seedArray as $key => $seed) {
+        if ($key % 2 === 0) {
+            $seedKey = (int)$seed;
+            $value = null;
+        } else {
+            $value = (int)$seed;
+            $seeds[$seedKey] = $value;
+            $seedKey = null;
+        }
+    }
+
+    return $seeds;
+}
+
+////////////////////////////////
+$logName = 'day5_log.txt';
+$logHandle = createLogFile($logName);
+
+$test = false;
+if (count($argv) > 1) {
+    $test = $argv[1];
+}
+$filename = 'day5_input.txt';
+if ($test) {
+    $filename = 'day5_test.txt';
+}
+writeToLog($logHandle, 'Reading file: ' . $filename);
+$almanac = readFileIntoArray($filename);
+$seeds = getSeeds($almanac[0]);
+$seedArray = [];
+foreach ($seeds as $seed) {
+    $seedArray[] = (int)$seed;
+    $seedArray[] = 0;
+}
+//$part1Seeds = parseSeeds($seedArray);
+//$garden = new Garden($almanac, $part1Seeds);
+//echo "Part 1: " . $garden->getClosest() . PHP_EOL;
+$garden = null;
+$part2Seeds = parseSeeds($seeds);
+$garden = new Garden($almanac, $part2Seeds);
+
+echo "Part 2: " . $garden->getClosest() . PHP_EOL;
+closeLogFile($logHandle);
+
