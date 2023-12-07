@@ -50,35 +50,6 @@ class Day7 extends AdventPuzzle
 
     private array $hands = [];
 
-    /**
-     * @param mixed $highestCount
-     * @param array $hand
-     * @return string
-     */
-    public function getHandType(int $highestCount, int $secondHighestCount): string
-    {
-        switch ($highestCount) {
-            case 5:
-                return 'five_of_a_kind';
-            case 4:
-                return 'four_of_a_kind';
-            case 3:
-                if ($secondHighestCount === 2) {
-                    return 'full_house';
-                } else {
-                    return 'three_of_a_kind';
-                }
-            case 2:
-                if ($secondHighestCount === 2) {
-                    return 'two_pair';
-                } else {
-                    return 'one_pair';
-                }
-            default:
-                return 'high_card';
-        }
-    }
-
     #[\Override] public function solve(): void
     {
         $this->parseInput();
@@ -93,48 +64,6 @@ class Day7 extends AdventPuzzle
 
         $this->setAnswer($answer);
         $this->reportAnswer();
-    }
-
-    private function parseInput(): void
-    {
-        $data = $this->getPuzzleData();
-        foreach ($data as $line) {
-            $play = $this->parseLine($line);
-            $hand = str_split($play[0]);
-            $bid = $play[1];
-            $countedHand = $this->getCardCounts($hand);
-            $this->hands[] = [
-                'hand' => $countedHand,
-                'hand_string' => $hand,
-                'bid' => $bid
-            ];
-        }
-    }
-
-    private function getCardCounts($cards): array
-    {
-        $hand = [];
-        foreach ($cards as $card) {
-            if (!array_key_exists($card, $hand)) {
-                $hand[$card] = [
-                    'card_value' => 0,
-                    'count' => 0,
-                ];
-            }
-            $hand[$card]['count']++;
-            $rank = self::RANKED_CARDS[$card];
-            if (2 == $this->part) {
-                $rank = self::PART_2_RANKED_CARDS[$card];
-            }
-            $hand[$card]['card_value'] = $rank;
-        }
-
-        return $hand;
-    }
-
-    private function parseLine(string $line): array
-    {
-        return $this->breakAndTrim($line);
     }
 
     private function calculateHandType($hand): string
@@ -181,6 +110,77 @@ class Day7 extends AdventPuzzle
         }
 
         return $this->getHandType($highestCount, $secondHighestCount);
+    }
+
+    private function getCardCounts($cards): array
+    {
+        $hand = [];
+        foreach ($cards as $card) {
+            if (!array_key_exists($card, $hand)) {
+                $hand[$card] = [
+                    'card_value' => 0,
+                    'count' => 0,
+                ];
+            }
+            $hand[$card]['count']++;
+            $rank = self::RANKED_CARDS[$card];
+            if (2 == $this->part) {
+                $rank = self::PART_2_RANKED_CARDS[$card];
+            }
+            $hand[$card]['card_value'] = $rank;
+        }
+
+        return $hand;
+    }
+
+    /**
+     * @param mixed $highestCount
+     * @param array $hand
+     * @return string
+     */
+    private function getHandType(int $highestCount, int $secondHighestCount): string
+    {
+        switch ($highestCount) {
+            case 5:
+                return 'five_of_a_kind';
+            case 4:
+                return 'four_of_a_kind';
+            case 3:
+                if ($secondHighestCount === 2) {
+                    return 'full_house';
+                } else {
+                    return 'three_of_a_kind';
+                }
+            case 2:
+                if ($secondHighestCount === 2) {
+                    return 'two_pair';
+                } else {
+                    return 'one_pair';
+                }
+            default:
+                return 'high_card';
+        }
+    }
+
+    private function parseInput(): void
+    {
+        $data = $this->getPuzzleData();
+        foreach ($data as $line) {
+            $play = $this->parseLine($line);
+            $hand = str_split($play[0]);
+            $bid = $play[1];
+            $countedHand = $this->getCardCounts($hand);
+            $this->hands[] = [
+                'hand' => $countedHand,
+                'hand_string' => $hand,
+                'bid' => $bid
+            ];
+        }
+    }
+
+    private function parseLine(string $line): array
+    {
+        return $this->breakAndTrim($line);
     }
 
     private function setHandTypes(): void
