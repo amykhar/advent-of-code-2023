@@ -50,6 +50,8 @@ Now, you can determine the total winnings of this set of hands by adding up the 
 
 Find the rank of every hand in your set. What are the total winnings?
 
+Your puzzle answer was 246409899.
+
 --- Part Two ---
 To make things a little more interesting, the Elf introduces one additional rule. Now, J cards are jokers - wildcards that can act like whatever card would make the hand the strongest type possible.
 
@@ -70,3 +72,5 @@ T55J5, KTJJT, and QQQJA are now all four of a kind! T55J5 gets rank 3, QQQJA get
 With the new joker rule, the total winnings in this example are 5905.
 
 Using the new joker rule, find the rank of every hand in your set. What are the new total winnings?
+
+Your puzzle answer was 244848487.

@@ -1,0 +1,13 @@
+<?php
+
+namespace App\CLASSNAME;
+
+use App\AdventPuzzle;
+
+class CLASSNAME extends AdventPuzzle
+{
+ #[\Override] public function solve(): void
+    {
+        // TODO: Implement solve() method.
+    }
+}
