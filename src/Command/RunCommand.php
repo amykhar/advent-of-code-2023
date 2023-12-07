@@ -30,7 +30,7 @@ class RunCommand extends Command
             // the command help shown when running the command with the "--help" option
             ->setHelp('Usage: run --day 7 --test --part 1')
             ->addArgument('day', InputArgument::REQUIRED)
-            ->addOption('mode', 'm')
+            ->addOption('test', 't')
             ->addOption('part', 'p', InputOption::VALUE_REQUIRED, )
         ;
     }
@@ -39,7 +39,7 @@ class RunCommand extends Command
     {
         $io = new SymfonyStyle($input, $output);
         $day = $input->getArgument('day');
-        $mode = $input->getOption('mode') ?? '';
+        $mode = $input->getOption('test') ? 'test' :  '';
         $part = $input->getOption('part') ?? 1;
 
         $output->write(

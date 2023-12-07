@@ -17,7 +17,7 @@ class Logger
         if (is_array($message)) {
             $message = json_encode($message);
         }
-        $logEntry = date('Y-m-d H:i:s') . ' log.php' . $message;
+        $logEntry = date('Y-m-d H:i:s') . ':  ' . $message;
         fwrite($this->handle, $logEntry . PHP_EOL);
     }
 
